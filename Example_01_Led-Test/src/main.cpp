@@ -24,5 +24,5 @@ void loop() {					// runs forever
 	delay(1000);              	// wait 
 	digitalWrite(LED, HIGH);  	// LED off 
 	Serial.println("Led off");
-	delay(2000);              	// wait 
+	delay(1000);              	// wait 
 }
